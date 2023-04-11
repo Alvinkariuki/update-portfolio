@@ -18,10 +18,10 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        I know that <span>Good Development</span> <br /> means{" "}
-        <span>Good Business</span>
+        My work speaks for <span>itself,</span> <br />
+        but I want to share <span>my process</span>
       </h2>
-
+      {/* , but let me tell you more about my process */}
       <div className="app__profiles">
         {abouts.map((about, index) => (
           <motion.div
