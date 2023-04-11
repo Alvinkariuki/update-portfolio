@@ -36,6 +36,8 @@ import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 import meProfile from "../assets/newimg.png";
 import meSmile from "../assets/me-smile.jpg";
+import laravel from "../assets/laravelicon.png";
+import yinyang from "../assets/yin-yang.jpg";
 
 export default {
   email,
@@ -73,4 +75,6 @@ export default {
   spotify,
   meProfile,
   meSmile,
+  laravel,
+  yinyang,
 };
